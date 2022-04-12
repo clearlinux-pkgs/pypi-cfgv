@@ -4,7 +4,7 @@
 #
 Name     : pypi-cfgv
 Version  : 3.3.1
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/c4/bf/d0d622b660d414a47dc7f0d303791a627663f554345b21250e39e7acb48b/cfgv-3.3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c4/bf/d0d622b660d414a47dc7f0d303791a627663f554345b21250e39e7acb48b/cfgv-3.3.1.tar.gz
 Summary  : Validate configuration and produce human readable error messages.
@@ -14,9 +14,6 @@ Requires: pypi-cfgv-license = %{version}-%{release}
 Requires: pypi-cfgv-python = %{version}-%{release}
 Requires: pypi-cfgv-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: cfgv
-Provides: cfgv-python
-Provides: cfgv-python3
 
 %description
 [![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/asottile.cfgv?branchName=master)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=24&branchName=master)
@@ -59,7 +56,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641422054
+export SOURCE_DATE_EPOCH=1649726093
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
