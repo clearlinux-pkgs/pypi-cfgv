@@ -1,5 +1,5 @@
 PKG_NAME := pypi-cfgv
-URL = https://files.pythonhosted.org/packages/c4/bf/d0d622b660d414a47dc7f0d303791a627663f554345b21250e39e7acb48b/cfgv-3.3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/11/74/539e56497d9bd1d484fd863dd69cbbfa653cd2aa27abfe35653494d85e94/cfgv-3.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
