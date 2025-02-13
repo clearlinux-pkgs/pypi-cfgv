@@ -5,7 +5,7 @@
 #
 Name     : pypi-cfgv
 Version  : 3.4.0
-Release  : 26
+Release  : 27
 URL      : https://files.pythonhosted.org/packages/11/74/539e56497d9bd1d484fd863dd69cbbfa653cd2aa27abfe35653494d85e94/cfgv-3.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/74/539e56497d9bd1d484fd863dd69cbbfa653cd2aa27abfe35653494d85e94/cfgv-3.4.0.tar.gz
 Summary  : Validate configuration and produce human readable error messages.
